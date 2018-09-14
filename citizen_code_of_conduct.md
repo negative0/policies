@@ -6,7 +6,7 @@ A primary goal of 'PICT CSI Student branch' is to be inclusive to the largest nu
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in COMMUNITY_NAME to help us create safe and positive experiences for everyone.
+We invite all those who participate in PICT CSI Student branch to help us create safe and positive experiences for everyone.
 
 ## 2. Open [Source/Culture/Tech] Citizenship
 
